@@ -1,15 +1,16 @@
 # snyfy
 A simple CLI tool built with Rust to perform port enumeration on remote systems.
 
+<img src="https://github.com/mayankshah1607/snyfy/blob/master/.github/demo.png"/>
+
 ## Installation
 
-### Linux and Mac
-```bash
-$ curl snyfy.mayankshah.dev | sh
-```
+> Note: Currently, only Linux binary release is available. To setup on other OS archs, you need to setup from source.
 
-### Windows
-Coming soon...
+To install `snyfy` CLI on Linux, run the following command on your terminal
+```bash
+$ curl -LJO https://github.com/mayankshah1607/snyfy/blob/master/setup.sh | sh  
+```
 
 ### Install from source
 
