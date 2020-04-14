@@ -64,3 +64,11 @@ $ snyfy -n 1500 192.168.0.1
 # Scan ports from range 10000-20000 using 10000 threads
 $ snyfy -n 1500 -l 10000 -u 20000 192.168.1.1
 ```
+
+## Contributing
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+We are always looking forward to new ideas and meaningful contributions.
+
+## License
+[MIT](https://github.com/mayankshah1607/snyfy/blob/master/LICENSE)
